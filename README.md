@@ -28,14 +28,14 @@
 </p>
 
 ## 😄 About me 🌱
-  <pre style="display: flex; align-items: center;">
-  <div style="margin: 0; flex: 1;">
-  - 💼 I'm a Back-end dev
-  - 💻 Web programming languages
-  - 🎮 Music • Games • Anime • Code • Art
-  </div>
-  <img alt="GIF" width="150rem" src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" >
-  </pre>
+>
+>- 💼 I'm a Back-end dev
+>- 💻 Web programming languages
+>- 🎮 Music • Games • Anime • Code • Art
+
+<div style="display: flex; justify-content: center; align-items: center; height: 30vh;">
+    <img alt="GIF" src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+</div>
 
 
 <!--
